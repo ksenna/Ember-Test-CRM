@@ -1,28 +1,5 @@
-== README
+== Ember CRM
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A CRM built using Ruby on Rails, Ember, and CoffeeScript. Based on the app built in Vic Ramon's Ember [tutorial](http://ember.vicramon.com).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+View live at [https://rails-ember-crm.herokuapp.com/](https://rails-ember-crm.herokuapp.com/)
