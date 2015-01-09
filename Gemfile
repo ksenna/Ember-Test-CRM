@@ -29,6 +29,9 @@ gem 'ffaker'
 gem 'responders', '~> 2.0'
 gem 'puma'
 gem 'active_model_serializers', github: 'rails-api/active_model_serializers', branch: '0-9-stable'
+
+gem 'rails_12factor'
+
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
