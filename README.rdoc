@@ -1,5 +1,5 @@
 == Ember CRM
 
-A CRM built using Ruby on Rails, Ember, and CoffeeScript. Based on the app built in Vic Ramon's Ember [tutorial](http://ember.vicramon.com).
+A CRM built using Ruby on Rails, Ember, and CoffeeScript. Based on the app built in Vic Ramon's Ember tutorial: http://ember.vicramon.com.
 
-View live at [https://rails-ember-crm.herokuapp.com/](https://rails-ember-crm.herokuapp.com/)
+View live at https://rails-ember-crm.herokuapp.com
